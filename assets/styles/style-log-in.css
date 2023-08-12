@@ -1,0 +1,20 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: 'Open Sans', sans-serif;
+}
+
+.login-input button {
+  margin-top: 32px;
+  padding: 8px 32px;
+  background-color: #212936;
+  border: 0;
+  border-radius: 8px;
+  font-size: 16px;
+  color: #ffffff;
+  font-weight: normal;
+  text-transform: uppercase;
+  float: right;
+  cursor: pointer;
+}
