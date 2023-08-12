@@ -2,7 +2,7 @@
 
 An log-in app for dicoding's codelab
 
-Alur Fitur Login:
+Log-in feature workflow:
 
 1. Input email dan password
 2. Validate input.
